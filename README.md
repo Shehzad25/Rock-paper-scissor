@@ -41,7 +41,7 @@ Rock-Paper-Scissors/
 
 Clone the repository
 
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/Shehzad25/rock-paper-scissors.git
 
 
 Go to the project folder
